@@ -1352,7 +1352,7 @@
       }
       global $V0f14082c;
 
-      $V0f14082c['parser-options'] = "";
+      $V0f14082c['parser-options'] = array("");
       $V0f14082c['prompt'] = 1;
       if ($V51d3ee44['argc'] > 1) {
           for ($V865c0c0b = 1; $V865c0c0b < $V51d3ee44['argc'] - 1; $V865c0c0b++) {
